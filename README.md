@@ -13,7 +13,7 @@ Through this book, learn to leverage Python’s powerful tools to dissect, analy
 
 ## :file_folder: Repository Structure
 
-- **Code/** - Python scripts and Jupyter notebooks for each chapter.
+- **Code/** - Python scripts.
 - **Erratas/** - Corrected errors and improvements to the original text.
 - **Notebooks/** - Interactive Jupyter notebooks to accompany your learning journey.
 - **Datasets/** - All the datasets used in the book's examples and exercises.
