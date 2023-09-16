@@ -1,0 +1,201 @@
+ID,Installation Date,Last Maintenance Date,Location,Region,Type of Lift,Manufacturer,Capacity,Operational Status,Total Rides,Revenue Generated,Maintenance Cost,Lift Height,Lift Length,Daily Ridership
+1,1989-03-21 23:25:49,2002-05-18 23:25:49,St. Anton am Arlberg,Tyrol,Gondola,Doppelmayr,13,Operational,446232,2842659.55,452940.1,124,4184,1423
+2,1989-03-26 12:32:57,1992-07-11 12:32:57,Kitzbühel,Tyrol,Chairlift,Leitner Ropeways,2,Under Maintenance,65088,4781132.98,127930.31,23,1199,419
+3,2022-05-20 00:33:12,2034-11-27 00:33:12,Sölden,Tyrol,T-bar lift,Bartholet Maschinenbau AG,13,Operational,480563,2078863.7,791729.98,149,2372,3955
+4,1983-12-18 17:38:28,1986-10-22 17:38:28,Ischgl,Tyrol,Magic carpet,BMF Bartholet,11,Operational,924080,2109815.13,439319.64,93,2262,184
+5,1995-04-05 22:19:12,1999-08-15 22:19:12,Mayrhofen,Tyrol,Funicular,Garaventa,7,Operational,216570,533293.38,256662.21,145,758,2700
+6,2020-09-30 09:01:11,2030-08-31 09:01:11,Cortina d'Ampezzo,Dolomites,Gondola,Doppelmayr,10,Under Maintenance,761141,2601114.25,764960.24,65,4344,1761
+7,1999-07-14 08:18:50,2004-03-16 08:18:50,Val Gardena,Dolomites,Chairlift,Leitner Ropeways,13,Operational,719408,2606030.71,274905.36,40,3435,604
+8,2003-08-11 20:05:11,2016-08-22 20:05:11,Livigno,Lombardy,T-bar lift,Bartholet Maschinenbau AG,15,Operational,84920,614147.19,538709.44,140,3619,1041
+9,2020-01-31 16:57:11,2027-07-12 16:57:11,Breuil-Cervinia,Aosta Valley,Magic carpet,BMF Bartholet,5,Operational,106311,2017113.73,698283.33,138,1420,1638
+10,1996-11-28 03:40:24,2007-04-19 03:40:24,Madonna di Campiglio,Trentino,Funicular,Garaventa,13,Under Maintenance,663199,720369.77,93824.43,21,1919,1260
+11,2022-05-05 17:21:26,2025-04-02 17:21:26,Zermatt,Valais,Gondola,Doppelmayr,7,Operational,344464,4387540.07,660683.33,15,4184,1283
+12,1981-05-26 22:36:22,1985-06-04 22:36:22,Verbier,Valais,Chairlift,Leitner Ropeways,2,Operational,48871,3170136.87,101354.57,37,1436,3956
+13,1995-10-18 01:02:20,2004-08-20 01:02:20,St. Moritz,Graubünden,T-bar lift,Bartholet Maschinenbau AG,11,Operational,784336,1543452.53,504588.69,98,2845,2619
+14,2005-04-19 19:21:48,2017-08-14 19:21:48,Davos,Graubünden,Magic carpet,BMF Bartholet,10,Under Maintenance,114748,3863682.94,366216.63,119,1494,2212
+15,1997-04-14 21:26:00,1999-11-29 21:26:00,Jungfrau,Bernese Oberland,Funicular,Garaventa,4,Operational,357307,4794819.69,247830.73,113,1837,3392
+16,1993-05-27 00:00:17,1998-02-19 00:00:17,Grandvalira,Eastern Pyrenees,Gondola,Doppelmayr,6,Operational,49237,3717191.23,860746.71,27,1413,3039
+17,2008-02-11 23:01:19,2010-07-26 23:01:19,Vallnord,Eastern Pyrenees,Chairlift,Leitner Ropeways,3,Operational,463939,3645054.32,430991.68,126,4959,4921
+18,1994-03-09 01:30:54,1999-01-23 01:30:54,Ordino Arcalís,Eastern Pyrenees,T-bar lift,Bartholet Maschinenbau AG,7,Under Maintenance,769747,948223.03,436077.46,80,4950,4108
+19,2011-01-15 18:27:21,2015-02-24 18:27:21,Pal-Arinsal,Eastern Pyrenees,Magic carpet,BMF Bartholet,13,Operational,656341,1675597.26,625215.05,138,491,3433
+20,1985-07-18 22:15:40,1990-06-02 22:15:40,Pas de la Casa,Eastern Pyrenees,Funicular,Garaventa,5,Operational,611867,821525.13,254727.87,38,4449,232
+21,1997-08-27 01:21:04,2009-02-23 01:21:04,Garmisch-Partenkirchen,Bavaria,Gondola,Doppelmayr,6,Operational,796397,4023024.8,910024.7,32,2632,2819
+22,2014-06-14 15:58:36,2027-05-18 15:58:36,Oberstdorf,Bavaria,Chairlift,Leitner Ropeways,3,Under Maintenance,646196,1758255.14,686502.8,21,3739,447
+23,1989-02-17 00:04:57,1993-07-16 00:04:57,Fellhorn/Kanzelwand,Bavaria,T-bar lift,Bartholet Maschinenbau AG,9,Operational,705103,3437816.64,58298.19,135,4847,4424
+24,1995-10-17 01:22:00,2004-08-13 01:22:00,Nebelhorn,Bavaria,Magic carpet,BMF Bartholet,15,Operational,239078,1003667.79,753286.23,94,4825,4591
+25,2022-07-12 15:20:10,2026-12-30 15:20:10,Zugspitze,Bavaria,Funicular,Garaventa,13,Operational,167951,1161401.35,773365.06,96,2428,265
+26,2004-04-10 23:36:05,2006-04-28 23:36:05,St. Anton am Arlberg,Tyrol,Gondola,Doppelmayr,4,Under Maintenance,944709,2794833.86,277407.65,65,3642,2794
+27,1980-12-22 05:59:54,1992-08-13 05:59:54,Kitzbühel,Tyrol,Chairlift,Leitner Ropeways,7,Operational,656340,271159.33,321448.18,13,1618,2970
+28,2021-07-26 01:39:49,2033-08-28 01:39:49,Sölden,Tyrol,T-bar lift,Bartholet Maschinenbau AG,14,Operational,564823,189470.85,951926.0,111,3894,4388
+29,2005-05-22 21:59:23,2011-12-10 21:59:23,Ischgl,Tyrol,Magic carpet,BMF Bartholet,4,Operational,894581,3538139.48,242247.71,101,1886,2605
+30,1985-04-19 14:17:32,1986-08-15 14:17:32,Mayrhofen,Tyrol,Funicular,Garaventa,2,Under Maintenance,874725,2026921.95,750857.78,76,733,829
+31,1999-08-18 01:20:33,2013-01-06 01:20:33,Cortina d'Ampezzo,Dolomites,Gondola,Doppelmayr,6,Operational,348389,3205540.15,108285.45,71,4138,3597
+32,1983-03-25 20:10:41,1987-05-10 20:10:41,Val Gardena,Dolomites,Chairlift,Leitner Ropeways,7,Operational,664591,1467892.79,412360.48,24,1401,1723
+33,2012-01-08 08:44:09,2016-06-04 08:44:09,Livigno,Lombardy,T-bar lift,Bartholet Maschinenbau AG,7,Operational,569322,3799856.62,407491.58,41,2162,2693
+34,1983-10-07 11:56:02,1984-05-26 11:56:02,Breuil-Cervinia,Aosta Valley,Magic carpet,BMF Bartholet,10,Under Maintenance,269256,1235532.62,882541.76,48,2104,2649
+35,1987-07-09 01:50:09,1996-11-09 01:50:09,Madonna di Campiglio,Trentino,Funicular,Garaventa,8,Operational,840300,4975048.93,487727.51,119,278,4727
+36,2000-08-15 20:41:55,2013-03-05 20:41:55,Zermatt,Valais,Gondola,Doppelmayr,10,Operational,741717,2184984.91,789047.1,75,3957,657
+37,1989-11-11 21:35:04,1991-09-14 21:35:04,Verbier,Valais,Chairlift,Leitner Ropeways,14,Operational,870110,1942280.0,88967.41,90,2659,4167
+38,2017-05-11 00:07:49,2019-06-16 00:07:49,St. Moritz,Graubünden,T-bar lift,Bartholet Maschinenbau AG,8,Under Maintenance,742358,4312619.78,633379.1,123,3333,1705
+39,2007-05-18 20:23:09,2014-10-04 20:23:09,Davos,Graubünden,Magic carpet,BMF Bartholet,2,Operational,723798,1426097.29,492902.79,145,3698,1318
+40,1980-03-18 12:37:30,1989-07-12 12:37:30,Jungfrau,Bernese Oberland,Funicular,Garaventa,8,Operational,677125,1205302.18,757262.03,64,2285,2320
+41,2017-11-23 06:08:29,2024-01-04 06:08:29,Grandvalira,Eastern Pyrenees,Gondola,Doppelmayr,5,Operational,310653,3791048.59,892116.45,60,2689,2133
+42,1992-11-27 21:47:59,2000-11-13 21:47:59,Vallnord,Eastern Pyrenees,Chairlift,Leitner Ropeways,12,Under Maintenance,93711,4183844.53,899307.94,25,559,3622
+43,1997-09-19 02:26:16,2001-03-22 02:26:16,Ordino Arcalís,Eastern Pyrenees,T-bar lift,Bartholet Maschinenbau AG,15,Operational,698475,1987460.61,585180.15,137,2181,1080
+44,1996-03-13 03:21:54,1999-05-21 03:21:54,Pal-Arinsal,Eastern Pyrenees,Magic carpet,BMF Bartholet,13,Operational,657536,2580910.57,138322.64,13,1773,532
+45,1983-01-24 05:13:37,1990-05-14 05:13:37,Pas de la Casa,Eastern Pyrenees,Funicular,Garaventa,14,Operational,137910,1278865.77,727395.99,19,1325,1189
+46,2007-11-10 11:38:34,2008-07-20 11:38:34,Garmisch-Partenkirchen,Bavaria,Gondola,Doppelmayr,14,Under Maintenance,319116,4569291.61,196195.73,92,2492,3485
+47,2012-04-14 04:52:05,2012-07-13 04:52:05,Oberstdorf,Bavaria,Chairlift,Leitner Ropeways,11,Operational,925119,2244706.63,263193.86,27,4040,628
+48,1984-12-18 04:44:30,1990-07-30 04:44:30,Fellhorn/Kanzelwand,Bavaria,T-bar lift,Bartholet Maschinenbau AG,13,Operational,306054,2246572.07,326622.95,39,1209,300
+49,2016-01-23 16:35:39,2027-05-01 16:35:39,Nebelhorn,Bavaria,Magic carpet,BMF Bartholet,14,Operational,846209,3943431.05,667657.73,60,2163,1390
+50,2002-07-21 17:42:30,2003-07-01 17:42:30,Zugspitze,Bavaria,Funicular,Garaventa,6,Under Maintenance,518520,3415606.96,445544.6,110,1504,3146
+51,2002-03-18 08:18:07,2011-12-28 08:18:07,St. Anton am Arlberg,Tyrol,Gondola,Doppelmayr,13,Operational,462435,2938640.53,254455.43,28,2641,3944
+52,2020-11-26 00:36:55,2022-01-28 00:36:55,Kitzbühel,Tyrol,Chairlift,Leitner Ropeways,13,Operational,374313,1702188.25,539731.32,57,1819,222
+53,2012-09-16 20:46:56,2013-06-15 20:46:56,Sölden,Tyrol,T-bar lift,Bartholet Maschinenbau AG,14,Operational,250976,3383456.12,658903.31,143,1677,198
+54,2010-12-24 12:34:52,2020-04-05 12:34:52,Ischgl,Tyrol,Magic carpet,BMF Bartholet,2,Under Maintenance,687613,1565991.83,466715.63,109,541,2731
+55,2004-10-17 02:57:13,2005-01-12 02:57:13,Mayrhofen,Tyrol,Funicular,Garaventa,4,Operational,418475,3625087.74,747464.59,107,253,3261
+56,1983-11-26 11:38:37,1987-12-05 11:38:37,Cortina d'Ampezzo,Dolomites,Gondola,Doppelmayr,11,Operational,225029,2114943.98,199029.69,52,4047,1288
+57,1980-05-29 22:05:31,1982-07-10 22:05:31,Val Gardena,Dolomites,Chairlift,Leitner Ropeways,14,Operational,406653,3311141.94,594873.34,36,4498,2597
+58,2013-12-15 17:32:12,2025-12-23 17:32:12,Livigno,Lombardy,T-bar lift,Bartholet Maschinenbau AG,14,Under Maintenance,757496,4118848.61,523676.71,33,1892,156
+59,2022-04-28 07:11:44,2029-08-12 07:11:44,Breuil-Cervinia,Aosta Valley,Magic carpet,BMF Bartholet,4,Operational,659882,395333.7,97560.15,12,984,2529
+60,2019-08-28 16:11:41,2027-06-01 16:11:41,Madonna di Campiglio,Trentino,Funicular,Garaventa,2,Operational,211456,2905273.27,214513.4,69,3916,1425
+61,2006-03-23 18:28:06,2012-12-28 18:28:06,Zermatt,Valais,Gondola,Doppelmayr,15,Operational,576073,3915361.04,529499.24,36,3246,3690
+62,2006-01-27 14:02:44,2011-04-26 14:02:44,Verbier,Valais,Chairlift,Leitner Ropeways,3,Under Maintenance,107835,2311954.61,843752.91,51,2035,1072
+63,1983-12-19 08:58:29,1986-03-09 08:58:29,St. Moritz,Graubünden,T-bar lift,Bartholet Maschinenbau AG,14,Operational,595247,1399096.06,787469.2,78,2903,2867
+64,2022-07-14 17:59:48,2026-11-19 17:59:48,Davos,Graubünden,Magic carpet,BMF Bartholet,15,Operational,253017,1913999.3,59347.84,46,4563,3649
+65,1987-07-10 06:48:04,1994-02-04 06:48:04,Jungfrau,Bernese Oberland,Funicular,Garaventa,6,Operational,60296,3551985.56,171374.35,38,676,4924
+66,2001-01-25 20:53:45,2013-01-10 20:53:45,Grandvalira,Eastern Pyrenees,Gondola,Doppelmayr,6,Under Maintenance,303669,808652.08,440324.3,29,3078,3403
+67,1998-03-29 14:29:41,1999-10-25 14:29:41,Vallnord,Eastern Pyrenees,Chairlift,Leitner Ropeways,11,Operational,787689,4713009.38,363732.39,35,384,2786
+68,2004-06-07 19:20:46,2016-09-27 19:20:46,Ordino Arcalís,Eastern Pyrenees,T-bar lift,Bartholet Maschinenbau AG,14,Operational,18040,4324705.37,778295.63,65,2198,3096
+69,2009-09-21 11:24:03,2014-03-27 11:24:03,Pal-Arinsal,Eastern Pyrenees,Magic carpet,BMF Bartholet,7,Operational,702021,2227558.69,556111.27,136,794,1962
+70,2002-05-25 05:48:48,2005-10-11 05:48:48,Pas de la Casa,Eastern Pyrenees,Funicular,Garaventa,10,Under Maintenance,45012,4657245.5,923953.41,120,2174,2642
+71,2011-02-14 05:23:08,2014-02-10 05:23:08,Garmisch-Partenkirchen,Bavaria,Gondola,Doppelmayr,10,Operational,590132,929119.29,819880.13,84,2679,2739
+72,2022-01-21 09:06:13,2024-06-23 09:06:13,Oberstdorf,Bavaria,Chairlift,Leitner Ropeways,2,Operational,476122,534820.14,332220.19,46,2543,4112
+73,1982-02-22 15:54:43,1987-07-02 15:54:43,Fellhorn/Kanzelwand,Bavaria,T-bar lift,Bartholet Maschinenbau AG,8,Operational,444747,2200729.23,11936.79,48,3557,3121
+74,1983-02-22 01:18:42,1988-01-15 01:18:42,Nebelhorn,Bavaria,Magic carpet,BMF Bartholet,4,Under Maintenance,906617,2255433.41,999736.52,28,2662,3667
+75,1998-07-05 11:11:10,2010-01-29 11:11:10,Zugspitze,Bavaria,Funicular,Garaventa,15,Operational,46644,2308529.98,436274.83,119,1044,1438
+76,2006-05-22 03:24:44,2008-09-14 03:24:44,St. Anton am Arlberg,Tyrol,Gondola,Doppelmayr,11,Operational,514340,2054787.06,706466.71,127,2598,1813
+77,1989-01-03 04:30:11,1990-10-06 04:30:11,Kitzbühel,Tyrol,Chairlift,Leitner Ropeways,3,Operational,505513,2350684.17,170978.31,23,4296,3895
+78,1994-03-15 02:21:27,2004-11-30 02:21:27,Sölden,Tyrol,T-bar lift,Bartholet Maschinenbau AG,11,Under Maintenance,592033,2972325.86,104157.32,103,930,4153
+79,1995-12-17 02:54:10,2005-07-30 02:54:10,Ischgl,Tyrol,Magic carpet,BMF Bartholet,6,Operational,552576,3077230.51,806428.51,49,749,1731
+80,1996-03-09 08:45:47,2007-06-01 08:45:47,Mayrhofen,Tyrol,Funicular,Garaventa,2,Operational,106388,2372573.37,908711.25,117,4184,3180
+81,1996-08-23 02:23:27,2004-10-02 02:23:27,Cortina d'Ampezzo,Dolomites,Gondola,Doppelmayr,14,Operational,553300,1841473.34,354866.25,49,2399,4364
+82,1986-11-16 23:18:59,1991-03-27 23:18:59,Val Gardena,Dolomites,Chairlift,Leitner Ropeways,8,Under Maintenance,618973,2586988.94,183720.91,37,407,4690
+83,1984-08-11 06:26:09,1991-08-19 06:26:09,Livigno,Lombardy,T-bar lift,Bartholet Maschinenbau AG,14,Operational,721077,1188638.09,401994.99,83,1622,1847
+84,1988-09-03 19:35:32,2001-11-01 19:35:32,Breuil-Cervinia,Aosta Valley,Magic carpet,BMF Bartholet,4,Operational,412834,4734043.17,778999.96,98,3724,1368
+85,2011-01-23 17:27:14,2012-03-09 17:27:14,Madonna di Campiglio,Trentino,Funicular,Garaventa,14,Operational,610771,1850646.6,287673.13,146,810,1582
+86,2019-09-07 21:26:45,2032-11-29 21:26:45,Zermatt,Valais,Gondola,Doppelmayr,8,Under Maintenance,386152,991231.34,640166.82,28,2405,3337
+87,2016-12-14 13:56:35,2028-05-15 13:56:35,Verbier,Valais,Chairlift,Leitner Ropeways,5,Operational,329610,2584621.88,812882.32,15,1697,1579
+88,2004-01-02 17:23:39,2006-05-13 17:23:39,St. Moritz,Graubünden,T-bar lift,Bartholet Maschinenbau AG,12,Operational,828050,232923.01,327704.97,38,4652,400
+89,2003-09-09 09:25:01,2004-01-29 09:25:01,Davos,Graubünden,Magic carpet,BMF Bartholet,10,Operational,156371,1874914.06,458314.85,64,827,476
+90,1998-06-22 06:22:47,2010-03-04 06:22:47,Jungfrau,Bernese Oberland,Funicular,Garaventa,11,Under Maintenance,712591,2771708.65,509702.59,74,4358,2603
+91,2011-05-12 03:49:14,2015-03-31 03:49:14,Grandvalira,Eastern Pyrenees,Gondola,Doppelmayr,7,Operational,488030,455706.41,512579.26,111,4910,4739
+92,2011-07-09 10:46:01,2025-01-02 10:46:01,Vallnord,Eastern Pyrenees,Chairlift,Leitner Ropeways,11,Operational,984808,756651.47,485120.71,140,3453,458
+93,2014-02-06 06:06:39,2014-03-16 06:06:39,Ordino Arcalís,Eastern Pyrenees,T-bar lift,Bartholet Maschinenbau AG,8,Operational,75535,3066548.62,679764.64,101,4607,4822
+94,1991-07-18 03:23:34,1994-10-23 03:23:34,Pal-Arinsal,Eastern Pyrenees,Magic carpet,BMF Bartholet,14,Under Maintenance,129280,2174152.91,83799.0,47,1649,1970
+95,1982-08-19 06:32:39,1995-08-16 06:32:39,Pas de la Casa,Eastern Pyrenees,Funicular,Garaventa,10,Operational,830413,3021083.36,581381.17,107,736,540
+96,2000-08-25 05:30:51,2003-10-25 05:30:51,Garmisch-Partenkirchen,Bavaria,Gondola,Doppelmayr,4,Operational,858085,1816505.07,453412.11,115,4175,2074
+97,2022-11-22 00:58:30,2026-07-14 00:58:30,Oberstdorf,Bavaria,Chairlift,Leitner Ropeways,5,Operational,860943,2939255.82,376846.15,65,434,250
+98,1991-09-29 21:06:57,1995-06-12 21:06:57,Fellhorn/Kanzelwand,Bavaria,T-bar lift,Bartholet Maschinenbau AG,9,Under Maintenance,305647,1012223.05,481405.25,18,743,3030
+99,1989-03-14 12:13:32,1997-12-20 12:13:32,Nebelhorn,Bavaria,Magic carpet,BMF Bartholet,15,Operational,795177,3936640.94,224839.39,118,1897,546
+100,2013-07-09 01:35:41,2014-12-07 01:35:41,Zugspitze,Bavaria,Funicular,Garaventa,5,Operational,102519,2354451.31,58978.99,56,1504,2410
+101,2004-11-17 01:55:28,2017-02-02 01:55:28,St. Anton am Arlberg,Tyrol,Gondola,Doppelmayr,8,Operational,932453,702246.59,371841.29,26,4423,3180
+102,2021-07-05 02:23:33,2034-03-02 02:23:33,Kitzbühel,Tyrol,Chairlift,Leitner Ropeways,2,Under Maintenance,631748,394543.3,250431.86,88,4601,3972
+103,1999-04-19 17:45:55,2001-06-13 17:45:55,Sölden,Tyrol,T-bar lift,Bartholet Maschinenbau AG,14,Operational,957932,3768789.62,782700.69,134,4427,2222
+104,1992-05-25 20:30:14,1993-05-12 20:30:14,Ischgl,Tyrol,Magic carpet,BMF Bartholet,9,Operational,641060,3378762.76,882245.9,95,1460,865
+105,2013-06-03 01:41:04,2017-12-19 01:41:04,Mayrhofen,Tyrol,Funicular,Garaventa,15,Operational,349168,2008807.86,757906.27,117,3939,2676
+106,2020-10-21 23:04:20,2021-09-09 23:04:20,Cortina d'Ampezzo,Dolomites,Gondola,Doppelmayr,10,Under Maintenance,613618,4525376.72,216071.3,44,1913,1413
+107,2010-10-19 17:55:29,2016-07-17 17:55:29,Val Gardena,Dolomites,Chairlift,Leitner Ropeways,10,Operational,515572,3684629.79,598375.75,95,4745,2681
+108,2012-05-21 03:20:35,2013-04-05 03:20:35,Livigno,Lombardy,T-bar lift,Bartholet Maschinenbau AG,15,Operational,115589,4302615.99,655058.64,92,1371,2721
+109,1983-01-18 01:19:19,1995-07-31 01:19:19,Breuil-Cervinia,Aosta Valley,Magic carpet,BMF Bartholet,7,Operational,877984,3006420.73,930059.34,94,3350,586
+110,1987-10-25 14:08:29,1992-04-20 14:08:29,Madonna di Campiglio,Trentino,Funicular,Garaventa,6,Under Maintenance,559403,1304410.44,551403.54,80,4444,358
+111,1980-02-22 15:57:23,1986-09-06 15:57:23,Zermatt,Valais,Gondola,Doppelmayr,5,Operational,685958,176206.89,174546.28,129,3975,1485
+112,1989-12-16 19:13:29,1996-05-15 19:13:29,Verbier,Valais,Chairlift,Leitner Ropeways,14,Operational,446304,2471120.9,38954.29,99,4617,3039
+113,2009-03-04 07:32:32,2012-07-23 07:32:32,St. Moritz,Graubünden,T-bar lift,Bartholet Maschinenbau AG,11,Operational,104057,843187.72,719603.12,63,3797,686
+114,2018-04-16 03:10:04,2019-02-04 03:10:04,Davos,Graubünden,Magic carpet,BMF Bartholet,4,Under Maintenance,399717,131614.99,550912.46,64,4869,2428
+115,1998-05-15 01:25:16,2001-04-15 01:25:16,Jungfrau,Bernese Oberland,Funicular,Garaventa,12,Operational,52874,1673660.68,560431.42,111,1290,803
+116,2006-04-26 10:19:30,2019-11-16 10:19:30,Grandvalira,Eastern Pyrenees,Gondola,Doppelmayr,14,Operational,809810,4686449.71,387306.93,112,4118,3072
+117,1984-02-01 04:47:09,1991-08-17 04:47:09,Vallnord,Eastern Pyrenees,Chairlift,Leitner Ropeways,13,Operational,292067,2831608.54,713039.26,43,3788,2565
+118,2016-11-04 05:17:41,2024-04-20 05:17:41,Ordino Arcalís,Eastern Pyrenees,T-bar lift,Bartholet Maschinenbau AG,12,Under Maintenance,909817,4220906.85,728329.48,67,2277,3263
+119,1980-08-25 19:10:10,1989-04-05 19:10:10,Pal-Arinsal,Eastern Pyrenees,Magic carpet,BMF Bartholet,8,Operational,244164,492884.54,316899.83,72,509,3625
+120,1997-06-10 05:11:47,1999-01-16 05:11:47,Pas de la Casa,Eastern Pyrenees,Funicular,Garaventa,6,Operational,747141,4775983.3,716293.92,64,3206,2664
+121,2006-03-10 08:56:45,2007-11-18 08:56:45,Garmisch-Partenkirchen,Bavaria,Gondola,Doppelmayr,5,Operational,120602,4182308.74,748778.31,41,1812,2867
+122,1987-04-08 22:25:25,1997-09-29 22:25:25,Oberstdorf,Bavaria,Chairlift,Leitner Ropeways,7,Under Maintenance,508543,2803123.15,213359.47,141,1740,1879
+123,1997-08-29 23:35:24,2009-11-04 23:35:24,Fellhorn/Kanzelwand,Bavaria,T-bar lift,Bartholet Maschinenbau AG,4,Operational,679608,1309147.18,646687.54,141,1511,1452
+124,2021-09-12 03:23:30,2024-04-28 03:23:30,Nebelhorn,Bavaria,Magic carpet,BMF Bartholet,14,Operational,793072,2092935.79,928268.75,31,3219,1313
+125,1982-04-09 05:32:05,1990-07-26 05:32:05,Zugspitze,Bavaria,Funicular,Garaventa,11,Operational,413665,4709094.58,25827.04,115,112,1895
+126,1987-01-12 19:01:08,1994-07-19 19:01:08,St. Anton am Arlberg,Tyrol,Gondola,Doppelmayr,14,Under Maintenance,922959,379677.02,118397.24,51,1449,2219
+127,2004-11-07 18:46:03,2008-05-30 18:46:03,Kitzbühel,Tyrol,Chairlift,Leitner Ropeways,5,Operational,508147,2956561.21,757975.19,77,3753,403
+128,2004-06-09 04:40:07,2015-02-08 04:40:07,Sölden,Tyrol,T-bar lift,Bartholet Maschinenbau AG,6,Operational,556829,2624699.46,305362.43,15,2624,3642
+129,1981-11-06 22:06:55,1984-08-29 22:06:55,Ischgl,Tyrol,Magic carpet,BMF Bartholet,3,Operational,903856,3638521.96,807219.13,113,2757,4838
+130,2014-06-04 15:12:44,2016-05-03 15:12:44,Mayrhofen,Tyrol,Funicular,Garaventa,11,Under Maintenance,480623,4581079.58,923756.41,76,3903,655
+131,1982-08-06 13:22:22,1983-10-15 13:22:22,Cortina d'Ampezzo,Dolomites,Gondola,Doppelmayr,3,Operational,437363,616391.36,175163.29,134,1595,4595
+132,1987-08-04 03:56:48,1989-01-16 03:56:48,Val Gardena,Dolomites,Chairlift,Leitner Ropeways,13,Operational,933917,2052249.98,615264.26,61,4609,4246
+133,2022-04-08 03:35:13,2025-10-01 03:35:13,Livigno,Lombardy,T-bar lift,Bartholet Maschinenbau AG,12,Operational,117910,4403491.95,386563.14,104,4866,2232
+134,2016-11-08 14:30:08,2026-01-16 14:30:08,Breuil-Cervinia,Aosta Valley,Magic carpet,BMF Bartholet,8,Under Maintenance,420219,728923.04,949410.04,57,2394,1811
+135,1991-07-17 23:59:19,2001-04-08 23:59:19,Madonna di Campiglio,Trentino,Funicular,Garaventa,11,Operational,264301,1297091.71,867911.27,105,4555,3743
+136,1998-10-31 18:44:46,2001-08-13 18:44:46,Zermatt,Valais,Gondola,Doppelmayr,4,Operational,776210,2596391.11,228705.22,146,2184,3833
+137,2019-03-31 07:31:49,2022-09-15 07:31:49,Verbier,Valais,Chairlift,Leitner Ropeways,12,Operational,504620,3068111.64,831636.3,45,2939,406
+138,1997-05-17 02:08:32,1998-05-29 02:08:32,St. Moritz,Graubünden,T-bar lift,Bartholet Maschinenbau AG,7,Under Maintenance,759921,1925876.69,181120.09,18,2863,4410
+139,1991-12-14 05:59:34,2003-11-22 05:59:34,Davos,Graubünden,Magic carpet,BMF Bartholet,12,Operational,238960,4509284.76,216809.07,71,4116,4995
+140,1993-12-22 09:13:19,2004-03-16 09:13:19,Jungfrau,Bernese Oberland,Funicular,Garaventa,10,Operational,146657,662307.28,477317.16,95,4628,4926
+141,1994-06-16 20:07:03,1996-12-12 20:07:03,Grandvalira,Eastern Pyrenees,Gondola,Doppelmayr,8,Operational,582886,454723.77,559920.0,46,4845,4581
+142,2005-10-08 09:08:07,2015-02-15 09:08:07,Vallnord,Eastern Pyrenees,Chairlift,Leitner Ropeways,9,Under Maintenance,878220,536164.64,182136.71,20,202,3522
+143,1982-09-03 19:01:06,1987-06-16 19:01:06,Ordino Arcalís,Eastern Pyrenees,T-bar lift,Bartholet Maschinenbau AG,2,Operational,746013,3689227.23,981108.7,16,4889,2695
+144,2007-09-18 23:57:09,2011-10-21 23:57:09,Pal-Arinsal,Eastern Pyrenees,Magic carpet,BMF Bartholet,11,Operational,830862,1922662.76,929456.45,53,4785,3770
+145,2001-04-03 09:40:15,2008-12-14 09:40:15,Pas de la Casa,Eastern Pyrenees,Funicular,Garaventa,5,Operational,98088,4991081.72,450429.6,54,2071,537
+146,1996-09-20 07:40:38,2001-03-30 07:40:38,Garmisch-Partenkirchen,Bavaria,Gondola,Doppelmayr,7,Under Maintenance,371584,4775609.99,279583.1,11,2168,3312
+147,2015-05-26 21:21:03,2026-10-27 21:21:03,Oberstdorf,Bavaria,Chairlift,Leitner Ropeways,8,Operational,966424,2811314.68,497911.22,93,735,4417
+148,2014-01-31 07:48:51,2020-12-06 07:48:51,Fellhorn/Kanzelwand,Bavaria,T-bar lift,Bartholet Maschinenbau AG,2,Operational,45235,1338365.7,928099.68,63,1838,3725
+149,2006-01-19 10:10:04,2009-07-17 10:10:04,Nebelhorn,Bavaria,Magic carpet,BMF Bartholet,6,Operational,647786,2981926.29,931494.48,69,465,4176
+150,1994-04-01 05:44:58,2003-02-20 05:44:58,Zugspitze,Bavaria,Funicular,Garaventa,12,Under Maintenance,987017,2714764.37,215330.61,54,1750,1476
+151,2006-05-12 08:29:29,2012-08-29 08:29:29,St. Anton am Arlberg,Tyrol,Gondola,Doppelmayr,5,Operational,501430,2572351.7,240561.09,39,1858,1696
+152,2002-07-23 23:14:22,2003-03-21 23:14:22,Kitzbühel,Tyrol,Chairlift,Leitner Ropeways,4,Operational,721603,4646312.61,241654.94,100,4563,1431
+153,1981-06-28 16:02:38,1985-11-21 16:02:38,Sölden,Tyrol,T-bar lift,Bartholet Maschinenbau AG,11,Operational,614591,4091142.42,640447.17,49,2330,634
+154,1990-01-06 11:33:27,2002-01-29 11:33:27,Ischgl,Tyrol,Magic carpet,BMF Bartholet,11,Under Maintenance,866429,2102171.78,179909.51,33,3986,4776
+155,2005-11-11 01:22:05,2013-01-22 01:22:05,Mayrhofen,Tyrol,Funicular,Garaventa,3,Operational,843203,658473.02,931142.68,118,565,2728
+156,2004-07-23 17:32:55,2014-06-20 17:32:55,Cortina d'Ampezzo,Dolomites,Gondola,Doppelmayr,12,Operational,37432,982909.37,150632.08,46,902,4334
+157,2020-12-04 19:35:57,2023-10-15 19:35:57,Val Gardena,Dolomites,Chairlift,Leitner Ropeways,14,Operational,123564,1242961.55,759741.66,72,1157,3826
+158,2011-10-26 09:59:58,2017-07-18 09:59:58,Livigno,Lombardy,T-bar lift,Bartholet Maschinenbau AG,9,Under Maintenance,952835,1315721.3,642167.62,26,907,3202
+159,2019-12-11 01:16:09,2028-09-25 01:16:09,Breuil-Cervinia,Aosta Valley,Magic carpet,BMF Bartholet,5,Operational,972250,4892665.27,591720.4,62,4348,4557
+160,2014-04-23 07:28:51,2025-02-12 07:28:51,Madonna di Campiglio,Trentino,Funicular,Garaventa,3,Operational,650706,1029727.29,130281.88,39,4552,436
+161,1984-04-24 17:48:29,1985-12-19 17:48:29,Zermatt,Valais,Gondola,Doppelmayr,3,Operational,781432,1582402.68,623616.51,27,1861,1451
+162,2003-03-29 23:40:11,2013-11-16 23:40:11,Verbier,Valais,Chairlift,Leitner Ropeways,13,Under Maintenance,225747,1431332.91,755832.75,62,3326,4677
+163,2007-06-20 06:17:23,2017-05-18 06:17:23,St. Moritz,Graubünden,T-bar lift,Bartholet Maschinenbau AG,7,Operational,183525,2000761.99,648125.89,30,2231,4600
+164,2008-09-20 05:50:36,2018-12-29 05:50:36,Davos,Graubünden,Magic carpet,BMF Bartholet,4,Operational,119536,1665526.51,78131.58,22,3230,285
+165,2000-10-08 02:25:06,2006-10-17 02:25:06,Jungfrau,Bernese Oberland,Funicular,Garaventa,15,Operational,872429,3621313.76,770284.17,45,604,4859
+166,2006-03-19 11:04:33,2018-02-04 11:04:33,Grandvalira,Eastern Pyrenees,Gondola,Doppelmayr,10,Under Maintenance,329084,3193881.74,10081.98,32,2078,932
+167,2014-12-08 07:51:35,2023-10-21 07:51:35,Vallnord,Eastern Pyrenees,Chairlift,Leitner Ropeways,9,Operational,11333,4670742.9,60039.26,97,2590,2174
+168,1991-05-21 14:25:33,2001-10-18 14:25:33,Ordino Arcalís,Eastern Pyrenees,T-bar lift,Bartholet Maschinenbau AG,12,Operational,29246,189907.9,116023.24,131,2514,4790
+169,1989-07-13 11:57:27,1991-11-30 11:57:27,Pal-Arinsal,Eastern Pyrenees,Magic carpet,BMF Bartholet,14,Operational,337026,673271.78,628889.95,115,2840,4514
+170,2003-08-03 06:43:19,2009-09-24 06:43:19,Pas de la Casa,Eastern Pyrenees,Funicular,Garaventa,2,Under Maintenance,547517,2207127.79,848571.14,32,3654,1914
+171,2021-01-22 08:00:15,2028-05-17 08:00:15,Garmisch-Partenkirchen,Bavaria,Gondola,Doppelmayr,11,Operational,835210,4779415.39,933914.95,100,1455,4366
+172,2012-03-28 22:42:52,2019-03-30 22:42:52,Oberstdorf,Bavaria,Chairlift,Leitner Ropeways,7,Operational,756178,1847526.15,337335.6,13,1968,2999
+173,2009-01-26 07:53:34,2012-12-12 07:53:34,Fellhorn/Kanzelwand,Bavaria,T-bar lift,Bartholet Maschinenbau AG,14,Operational,548064,4796166.01,910513.22,30,3802,2718
+174,1980-07-14 19:28:10,1987-07-23 19:28:10,Nebelhorn,Bavaria,Magic carpet,BMF Bartholet,5,Under Maintenance,979603,4088220.58,130922.6,83,3149,3777
+175,1987-08-24 07:33:05,1989-08-08 07:33:05,Zugspitze,Bavaria,Funicular,Garaventa,2,Operational,668823,176842.08,101476.85,119,1910,427
+176,1981-06-22 00:34:44,1990-12-02 00:34:44,St. Anton am Arlberg,Tyrol,Gondola,Doppelmayr,11,Operational,996882,4479488.86,959370.2,25,3224,1170
+177,1991-05-31 18:47:52,1995-07-28 18:47:52,Kitzbühel,Tyrol,Chairlift,Leitner Ropeways,4,Operational,377198,3238572.49,206303.49,91,858,4502
+178,2010-05-13 11:47:44,2014-06-23 11:47:44,Sölden,Tyrol,T-bar lift,Bartholet Maschinenbau AG,9,Under Maintenance,600576,4863316.5,786679.42,61,4399,2233
+179,2008-09-28 09:50:39,2012-10-23 09:50:39,Ischgl,Tyrol,Magic carpet,BMF Bartholet,15,Operational,962390,1436130.18,219062.73,72,3004,3545
+180,1990-01-23 11:00:02,1993-06-21 11:00:02,Mayrhofen,Tyrol,Funicular,Garaventa,4,Operational,724809,2170870.2,364968.12,15,4398,2037
+181,2016-11-29 10:58:30,2028-06-08 10:58:30,Cortina d'Ampezzo,Dolomites,Gondola,Doppelmayr,10,Operational,389877,4913170.6,185881.87,62,1538,3210
+182,2002-06-09 16:12:02,2012-06-29 16:12:02,Val Gardena,Dolomites,Chairlift,Leitner Ropeways,7,Under Maintenance,213887,3720860.44,788651.88,37,1490,145
+183,1998-11-06 22:14:04,2009-05-13 22:14:04,Livigno,Lombardy,T-bar lift,Bartholet Maschinenbau AG,14,Operational,449903,732111.0,999837.31,110,4628,2418
+184,2012-09-14 18:21:32,2019-10-01 18:21:32,Breuil-Cervinia,Aosta Valley,Magic carpet,BMF Bartholet,6,Operational,942340,4084097.13,153885.39,27,2929,1885
+185,2008-01-02 07:34:30,2018-11-27 07:34:30,Madonna di Campiglio,Trentino,Funicular,Garaventa,15,Operational,942545,4046085.01,220648.43,125,3920,697
+186,1985-10-24 17:57:56,1998-09-15 17:57:56,Zermatt,Valais,Gondola,Doppelmayr,15,Under Maintenance,970922,2137502.16,695115.32,112,4700,3435
+187,2000-04-23 03:07:31,2003-07-30 03:07:31,Verbier,Valais,Chairlift,Leitner Ropeways,12,Operational,406275,2636173.67,889559.71,141,1768,1176
+188,2006-04-24 20:53:26,2013-10-08 20:53:26,St. Moritz,Graubünden,T-bar lift,Bartholet Maschinenbau AG,2,Operational,121842,1294876.17,256624.98,133,2414,4758
+189,1988-07-25 03:32:07,1995-12-30 03:32:07,Davos,Graubünden,Magic carpet,BMF Bartholet,8,Operational,584291,238736.21,460358.66,86,2815,242
+190,2001-09-08 09:56:58,2003-10-14 09:56:58,Jungfrau,Bernese Oberland,Funicular,Garaventa,7,Under Maintenance,825578,3622066.81,225844.55,116,1192,3872
+191,1985-11-30 23:54:54,1994-08-01 23:54:54,Grandvalira,Eastern Pyrenees,Gondola,Doppelmayr,10,Operational,46598,2518369.97,400678.92,83,2736,1893
+192,2007-11-16 09:43:56,2017-10-27 09:43:56,Vallnord,Eastern Pyrenees,Chairlift,Leitner Ropeways,14,Operational,214293,3327750.3,462420.87,73,4264,2809
+193,1982-01-06 08:04:57,1984-08-17 08:04:57,Ordino Arcalís,Eastern Pyrenees,T-bar lift,Bartholet Maschinenbau AG,2,Operational,819663,4763454.05,360108.66,84,1000,3600
+194,2012-05-22 20:48:29,2018-10-07 20:48:29,Pal-Arinsal,Eastern Pyrenees,Magic carpet,BMF Bartholet,9,Under Maintenance,571002,4326727.54,456737.65,98,516,1542
+195,2009-11-27 01:29:09,2018-01-21 01:29:09,Pas de la Casa,Eastern Pyrenees,Funicular,Garaventa,2,Operational,587825,2824763.24,597976.0,147,197,689
+196,1988-01-05 22:28:59,1999-06-08 22:28:59,Garmisch-Partenkirchen,Bavaria,Gondola,Doppelmayr,10,Operational,992323,696234.27,642736.39,78,3324,1830
+197,2010-07-19 14:33:36,2019-07-20 14:33:36,Oberstdorf,Bavaria,Chairlift,Leitner Ropeways,6,Operational,555999,1466494.98,852065.11,68,3186,4502
+198,2005-02-08 01:41:06,2005-05-30 01:41:06,Fellhorn/Kanzelwand,Bavaria,T-bar lift,Bartholet Maschinenbau AG,2,Under Maintenance,548189,2926883.0,381067.55,46,4980,485
+199,1992-10-02 09:28:56,1993-11-07 09:28:56,Nebelhorn,Bavaria,Magic carpet,BMF Bartholet,14,Operational,575005,3791789.69,678071.46,10,935,2786
+200,1983-07-05 12:00:51,1990-02-15 12:00:51,Zugspitze,Bavaria,Funicular,Garaventa,3,Operational,415156,1906011.68,517410.51,120,4610,310
